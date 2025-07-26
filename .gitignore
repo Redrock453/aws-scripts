@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -20,3 +21,11 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+=======
+*.pem
+*.log
+*.json
+data/
+user-data-*.yaml
+outline_api.json
+>>>>>>> 938ff11 (додано README і .gitignore)
